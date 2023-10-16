@@ -29,3 +29,6 @@ The datasets consist of several medical predictor (independent) variables and on
 GradientBoosting model score on Testing data is around(82%).
 
 GradientBoosting model score on cross validation is around(76%).
+
+https://github.com/Rana0Ahmed/TechnoHacks-Diabetes-Prediction/assets/110063701/d44ddf0b-0225-4f3c-8cb2-1713156803d6
+
